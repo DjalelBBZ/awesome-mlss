@@ -65,6 +65,7 @@ Name|Location|Organiser|Dates|Aid
 [Vision Understanding and Machine Intelligence (VISUM 2018)](http://visum.inesctec.pt/visum-2018-6th-edition)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 5 - July 13|NA
 [Summer Schools on Computer Vision And Machine Learning](http://cvit.iiit.ac.in/summerschoolseries)|Hyderabad, India|IIIT Hyderabad| July 2 - July 14| No
 [PRAIRIE AI Summer School](https://project.inria.fr/paiss)|Grenoble, France|INRIA Grenoble| July 2 - July 6| Yes
+[African Machine Learning Summer School - Algiers 2018](https://mlschool.org/algiers2018/)|Algiers, Algeria|AMLSS| June 24 - June 28|No
 [Machine Learning Summer School (MLSS Buenos Aires)](http://mlss2018.net.ar)|Buenos Aires, Argentina|TO ADD| June 18 - June 30|Yes
 [Advanced Statistics and Data Mining Summer School](http://dia.fi.upm.es/ASDM)|Madrid, Spain|Univ. Politécnica de Madrid| June 25 - July 3|No
 [Data Science Summer School (DS<sup>3</sup>)](http://www.ds3-datascience-polytechnique.fr)|Paris, France|École Polytechnique| June 25 – June 29| No
